@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+    color: black ;
+    padding: 10px;
+    margin: 20px;
+}
+
+section#nombre-y-apellido{
+    font-family: 'Courgette', cursive;
+    font-size: 40px;
+    border: 5px solid rgb(100, 6, 100);
+    box-sizing: border-box;
+    padding: 15px;
+    justify-content: center;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ul,p,li,h3{
+    font-family: 'Tilt Neon', cursive;
+}
+
+ul,h3,p{
+    border: 3px solid rgb(230, 142, 230) ;
+    font-size:  30px; 
+}
+li{
+    font-size : 20px ;
+    
+}
+ul#demo,ul#demo2,ul#demo3,ul#demo4,ul#demo5,ul#demo6,ul#demo7,ul#demo8{
+    display:none;
+    padding: 20px;
+}
+button{
+    color: rgb(192, 50, 192);
+    height: 50px;
+    width: 50px;
+
+}
+p{
+    justify-content: center;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+    
